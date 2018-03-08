@@ -1,5 +1,5 @@
 class EpicenterController < ApplicationController
-  def fee
+  def feed
   end
 
   def show_user
